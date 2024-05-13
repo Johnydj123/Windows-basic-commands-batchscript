@@ -36,7 +36,7 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 
 ![WhatsApp Image 2024-05-05 at 21 27 17_8aea56f8](https://github.com/Johnydj123/Windows-basic-commands-batchscript/assets/145953459/d6fb107f-4dd7-4997-80e5-bcf69e0a8432)
 
-## COMMAND AND OUTPUT
+## COMMAND AND OUTPUT:
 
 List the contents of the "MyLab" directory.cd %userprofile%\Desktop\MyLab
 
